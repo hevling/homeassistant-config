@@ -1,0 +1,8 @@
+homeassistant:
+  # Everything important is here
+  packages: !include_dir_named packages
+
+default_config:
+
+tts:
+  - platform: google_translate
