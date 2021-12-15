@@ -1,4 +1,8 @@
+This repo contains my Home Assistant configuration. Home Assistant is open source home automation powered by a worldwide community of tinkerers. More information can be found at their website, https://www.home-assistant.io.
+
 # Home Assistant
+
+My home automation is not as advanced as many other configuration but I find it very practical and use it on a daily basis. The house should still be functional even when the internet or software is down. That results into solution that don't use cloud services and that everything can be operated manually.  
 
 ## Current infrastructure
 
