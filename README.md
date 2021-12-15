@@ -23,7 +23,7 @@ I'm using a Raspberry Pi 3 [Model B](https://www.raspberrypi.org/products/raspbe
 
 ### Resources
 
-I've extended the Lovelace interface with some custom plugins which are managed manually.
+I've extended the Lovelace interface with some custom plugins which are installed manually.
 
 * [Mini Graph Card](https://github.com/kalkih/mini-graph-card) to display climate graphs like temperature & humidity.
 * [Multiple Entity Row](https://github.com/benct/lovelace-multiple-entity-row) to show multiple entity states in row.
