@@ -2,7 +2,7 @@ This repo contains my Home Assistant configuration. Home Assistant is open sourc
 
 # Home Assistant
 
-My home automation is not as advanced as many other configuration but I find it very practical and use it on a daily basis. The house should still be functional even when the internet or software is down. That results into solution that don't use cloud services and that everything can be operated manually.  
+My home automation is not as advanced as many other configurations but for me it is very practical and I use it on a daily basis. The house should still be functional even when the internet or software is down. That results into solution that don't use cloud services and everything can be operated manually.  
 
 ## Current infrastructure
 
