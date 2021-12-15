@@ -15,9 +15,18 @@ I'm using a Raspberry Pi 3 [Model B](https://www.raspberrypi.org/products/raspbe
 
 * AZDelivery [ESP32 NodeMCU](https://www.az-delivery.de/nl/products/esp32-developmentboard) installed with ESPHome
 * [Shelly 1](https://shelly.cloud/products/shelly-1-smart-home-automation-relay/)
+* [Shelly Plug s](https://shelly.cloud/products/shelly-plug-s-smart-home-automation-device/)
 * [slae.sh CC2652R](https://slae.sh/projects/cc2652/) stick as Zigbee Controllor
 * Xiaomi MIJIA [Temperature and Humidity Monitor](https://www.google.com/search?q=MIJIA+Temperature+and+Humidity+Monitor+2) connected via BLE to ESPHome
 
 ## Lovelace setup
 
 ### Resources
+
+I've extended the Lovelace interface with some custom plugins which are managed manually.
+
+* [Mini Graph Card](https://github.com/kalkih/mini-graph-card) to display climate graphs like temperature & humidity.
+* [Multiple Entity Row](https://github.com/benct/lovelace-multiple-entity-row) to show multiple entity states in row.
+
+
+
