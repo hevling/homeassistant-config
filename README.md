@@ -2,7 +2,7 @@
 
 ## Current configuration
 
-I'm using a Raspberry Pi 3 [Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) with Home Assistant installed in [Docker](https://www.docker.com/). 
+I'm using a Raspberry Pi 3 [Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) with Home Assistant (core) installed in [Docker](https://www.docker.com/). 
 
 ### Connected Devices
 
